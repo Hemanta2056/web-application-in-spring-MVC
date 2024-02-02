@@ -6,7 +6,7 @@ Steps:
 Project Setup:
 
 1. Open your chosen IDE and create a new Java project named productcrudapp.
-Maven: Choose "Maven" as the project build tool if you want dependency management features. You can learn about Maven here: https://maven.apache.org/: https://maven.apache.org/.
+Maven: Choose "Maven" 
 Project Structure: Organize your project with packages like productcrudapp.controller, productcrudapp.dao, and productcrudapp.model to store different components.
 Dependencies:
 
